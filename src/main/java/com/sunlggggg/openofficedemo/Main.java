@@ -3,7 +3,6 @@ package com.sunlggggg.openofficedemo;
 import com.sunlggggg.openofficedemo.impl.WordConverterImpl;
 
 import java.io.File;
-import java.net.ConnectException;
 
 /**
  * 如果是docx的word直接重命名为doc文件

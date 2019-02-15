@@ -16,5 +16,5 @@ public interface WordConverter {
      * @return
      * @throws ConnectException openOffice服务异常
      */
-    void transfer(File inFile, File outFile) throws Exception;
+    void transfer(File inFile, File outFile) throws RenameFailException;
 }
